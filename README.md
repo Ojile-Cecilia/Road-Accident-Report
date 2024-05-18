@@ -21,12 +21,13 @@ The project is to analyze and derive insights to answer crucial questions and he
 
 ## Skills/ concepts demonstrated:
 
-The following Excel features were incorporated
--TEXT Function
--Pivot Table
--Filters
--Find and Replace
--Customized Column
+The following Excel features were incorporated:
+
+- TEXT Function
+- Pivot Table
+- Filters
+- Find and Replace
+- Customized Column
 
 ## Stakaeholders
 1. Ministry of transport

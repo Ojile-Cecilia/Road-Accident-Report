@@ -52,4 +52,14 @@ The report comprises of 2 pages:
 2. The Dashboard
    
 You can interact with the report [here](https://docs.google.com/spreadsheets/d/1j2FH4wTzK03n0EIDFbwOglUSb4hqZAS8/edit?usp=sharing&ouid=112520287571171477298&rtpof=true&sd=true)
-   
+
+## Analysis
+
+### Total Casualties
+
+![](total_casualties.png)
+- A total number of **417883** casualties was recorded
+- 1.7% of those total casualties was fatal
+- 14.2% were serious
+- 84.1% was slight
+

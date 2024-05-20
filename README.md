@@ -56,10 +56,29 @@ You can interact with the report [here](https://docs.google.com/spreadsheets/d/1
 ## Analysis
 
 ### Total Casualties
-
-![](total_casualties.png)
+![](total_casualties_info.png)
 - A total number of **417883** casualties was recorded
 - 1.7% of those total casualties was fatal
 - 14.2% were serious
 - 84.1% was slight
 
+## Total Casualties by vehicle type
+![](casualties_vehicletype.png)
+- Highest casualties by vehcle type was car with a total of 333485 number of casualties
+- Lowest casualties by vehicle type was agricultural vehicle with a total of 1032 number of casualties
+
+## Total casualties by Area/Location
+![](casualties_area.png)
+- Urban areas had more casualties than the rural areas.
+- Urban areas recorded a total number of 255,9000 while rural area recorded a total number of 162,000 % of the total casualties
+
+## Total casualties by Light condition
+![](casualties_lightcondition.png)
+- More accident occured durring the day (305,000) than in the night (112,900)
+
+## Total casualties by road surface
+![](casualties_roadsurface.png) 
+- Dry: 2779445 casualties
+- Wet: 115261 casualties
+- Snow/ice: 22781 casualties
+- Others: 396 casualties

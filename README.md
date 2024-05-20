@@ -2,6 +2,7 @@
 
 ![](accident_intro.jpg) 
 ***
+
 ## Introduction
 This is an Excel project on road accident using data for the years 2021 and 2022.
 Road safety is a significant concern impacting communities worldwide. In response to this issue, I have developed a Road Accident Analytics Dashboard.
@@ -49,15 +50,16 @@ You can interact with the report [here](https://docs.google.com/spreadsheets/d/1
 I created a "Data Analysis" sheet to summarize all the pivot table data for ease of use by new users, developers, or clients. This sheet features nine pivot tables designed to summarize the data and highlight trends, focusing on the relationship between the number of casualties and various factors such as casualty type, vehicle type, road type, and location. Monthly trends for the years 2021 and 2022 were also analyzed. 
 
 Below is a snippet of the Data Analysis Sheet.
-![](accident_database.png)
+![](database.png)
+***
 
 ## Visualization: 
 Finally, the dashboard was created by inserting and customizing pivot charts based on the corresponding pivot tables. To ensure a user-friendly and interactive experience, slicers and timelines were incorporated. Hyperlinks and connections were also added to relevant icons for seamless navigation.
 
 Below is a snippet of the final dashboard in Excel.
 
-![](accident_dashboard.png)
-
+![](dashboard.png)
+***
 
    
 

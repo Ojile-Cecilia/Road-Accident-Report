@@ -42,15 +42,24 @@ The following Excel features were incorporated:
 - Number of Rows: 307,974
 - Number of Fields: 23
 
-## Visualization: 
-The report comprises of 2 pages:
-1. The Database
-2. The Dashboard
+You can interact with the report [here](https://docs.google.com/spreadsheets/d/1j2FH4wTzK03n0EIDFbwOglUSb4hqZAS8/edit?usp=sharing&ouid=112520287571171477298&rtpof=true&sd=true)
 
-### Database
+
+## Data Analysis
+I created a "Data Analysis" sheet to summarize all the pivot table data for ease of use by new users, developers, or clients. This sheet features nine pivot tables designed to summarize the data and highlight trends, focusing on the relationship between the number of casualties and various factors such as casualty type, vehicle type, road type, and location. Monthly trends for the years 2021 and 2022 were also analyzed. 
+
+Below is a snippet of the Data Analysis Sheet.
+![](accident_database.png)
+
+## Visualization: 
+Finally, the dashboard was created by inserting and customizing pivot charts based on the corresponding pivot tables. To ensure a user-friendly and interactive experience, slicers and timelines were incorporated. Hyperlinks and connections were also added to relevant icons for seamless navigation.
+
+Below is a snippet of the final dashboard in Excel.
+
+![](accident_dashboard.png)
+
 
    
-You can interact with the report [here](https://docs.google.com/spreadsheets/d/1j2FH4wTzK03n0EIDFbwOglUSb4hqZAS8/edit?usp=sharing&ouid=112520287571171477298&rtpof=true&sd=true)
 
 # Key Insight
 📈 Total Casualties Analysis: The dashboard shows a significant total of 417,883 casualties resulting from accidents over a two-year period. 

@@ -50,6 +50,7 @@ You can interact with the report [here](https://docs.google.com/spreadsheets/d/1
 I created a "Data Analysis" sheet to summarize all the pivot table data for ease of use by new users, developers, or clients. This sheet features nine pivot tables designed to summarize the data and highlight trends, focusing on the relationship between the number of casualties and various factors such as casualty type, vehicle type, road type, and location. Monthly trends for the years 2021 and 2022 were also analyzed. 
 
 Below is a snippet of the Data Analysis Sheet.
+
 ![](database.png)
 ***
 
@@ -61,12 +62,10 @@ Below is a snippet of the final dashboard in Excel.
 ![](dashboard.png)
 ***
 
-   
-
 # Key Insight
 📈 Total Casualties Analysis: The dashboard shows a significant total of 417,883 casualties resulting from accidents over a two-year period. 
 
-📅 Peak Months:The number of casualties was slightly higher in 2021 compared to 2022. The highest number of casualties occurred in October and November for both years, while January and February saw the fewest casualties.
+📆 Peak Months:The number of casualties was slightly higher in 2021 compared to 2022. The highest number of casualties occurred in October and November for both years, while January and February saw the fewest casualties.
 
 🚴‍♂️ Casualties by Vehicle Type: Car accidents were responsible for the majority of casualties, making up 79.8% of the total. Accidents involving other vehicle types resulted in minimal casualties.
 
@@ -76,7 +75,7 @@ Below is a snippet of the final dashboard in Excel.
 
 ⛈️ Casualties Distribution by Road Surface: The majority of casualties (67%) occurred on dry road surfaces.
 
-🉑 Casualties Relation by Area/Location: Urban areas accounted for 61% of the casualties following accidents.
+📖 Casualties Relation by Area/Location: Urban areas accounted for 61% of the casualties following accidents.
 
 🌃 Casualties Distribution by light condtion: Most casualties (73%) happened during daylight conditions.
 
